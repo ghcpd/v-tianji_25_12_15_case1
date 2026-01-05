@@ -1,1 +1,37 @@
 Prompt
+
+Problem Statement:
+I want a travel planner web app where I can browse destinations, create trips, plan daily itineraries, and save favorite places.  Build a small, modern, visually polished, interactive Web UI project from scratch using Vue or React (your choice).
+
+Requirements:
+Create a complete runnable project from zero.
+
+Generate full test coverage (unit + simple E2E).
+
+All tests must run and pass.
+
+Finally, run the project to ensure it boots successfully.
+
+If anything fails, fix it and re-run until everything passes.
+
+Do not assume success—treat it as a real execution environment.
+
+Deliverables:
+Full project structure
+
+All source code files
+
+All test files
+
+All configuration files
+
+Commands used to install, test, and run
+
+Logs from running tests and launching the dev server
+
+Short summary after successful run
+
+Title:
+Travel Planner Web UI Generation & Full Test Execution
+Description:
+This task evaluates the model's ability to design and implement a complete, modern, and visually polished frontend-only travel planner web application from scratch.  The application should allow users to browse destinations, create trips, plan daily itineraries, and save favorite places.  The model is expected to build a fully runnable project, design a clean and intuitive UI/UX, write comprehensive unit and simple end-to-end tests, execute all tests, iteratively fix any failures, and successfully launch the application—treating the entire workflow as a real-world development and execution environment.
